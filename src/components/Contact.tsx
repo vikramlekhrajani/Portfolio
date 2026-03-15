@@ -15,7 +15,7 @@ const Contact = () => {
               </a>
             </p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>BE in Computer Engineering</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
@@ -36,14 +36,6 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/raxx21_official"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
               href="https://www.linkedin.com/in/vikram-lekharajani-6282a2251/"
               target="_blank"
               data-cursor="disable"
@@ -57,7 +49,7 @@ const Contact = () => {
               Designed and Developed <br /> by <span>Vikram Lekharajani</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>
