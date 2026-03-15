@@ -22,7 +22,6 @@ Some things I've done that I'm proud of:
 Outside of the technical stuff, I genuinely enjoy the puzzle side of data work — figuring out why a pipeline broke at 2am, or why two numbers that should match don't. That kind of thing keeps me sharp.
 I've worked across investment banking (BNP Paribas), e-commerce (AppDirect), travel tech (ATPI), and core banking (Trust Systems) — so I've seen how different industries think about and handle data very differently.
 If you're working on something interesting in the data space — or just want to talk shop — feel free to reach out.
-📩 vikram.lekhrajani@gmail.com
         </p>
       </div>
     </div>
