@@ -87,21 +87,20 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>Sr Data Engineer</h3>
+              <h4>Building Insights</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                I help businesses make sense of their data — building pipelines that don't break, warehouses that scale, and systems the whole team can rely on. If data is messy, slow, or unreliable, that's the kind of problem I enjoy solving.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
+                <div className="what-tags">Databricks</div>
+                <div className="what-tags">SnowFlake</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">DBT</div>
+                <div className="what-tags">IICS</div>
+                <div className="what-tags">Azure</div>
+                <div className="what-tags">GCP</div>
                 <div className="what-tags">CSS3</div>
               </div>
               <div className="what-arrow"></div>
