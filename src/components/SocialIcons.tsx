@@ -74,11 +74,6 @@ const SocialIcons = () => {
             <FaXTwitter />
           </a>
         </span>
-        <span>
-          <a href="https://www.linkedin.com/in/vikram-lekharajani-6282a2251/" target="_blank">
-            <FaInstagram />
-          </a>
-        </span>
       </div>
       <a className="resume-button" href="#">
         <HoverLinks text="RESUME" />

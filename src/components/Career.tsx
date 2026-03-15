@@ -15,7 +15,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
+                <h4>Data Engineer</h4>
                 <h5>Ikshan</h5>
               </div>
               <h3>2020</h3>
@@ -29,7 +29,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
+                <h4>Senior Data Engineer</h4>
                 <h5>Monocept (Max Life Insurance)</h5>
               </div>
               <h3>2021</h3>
@@ -43,7 +43,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
+                <h4>Data Engineer</h4>
                 <h5>Logic Loop</h5>
               </div>
               <h3>NOW</h3>
